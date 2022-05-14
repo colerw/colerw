@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @colerw
-- this looks more like a program so I'll say 
+- this looks more like a program so I'll say ---
 - Hello World 
 - 👀 I’m interested in solana development ...
 - 🌱 I’m currently learning blockchain basics
